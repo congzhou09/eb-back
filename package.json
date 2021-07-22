@@ -42,7 +42,7 @@
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
     "webpack-merge": "^4.2.2",
-    "xlsx": "^0.10.8"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@babel/core": "^7.7.2",
